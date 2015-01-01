@@ -1,0 +1,11 @@
+Bundle-Version: 1.0.0.qualifier
+Bundle-Name: Angualar Demo Plugin
+Bundle-Vendor: Christian Guedemann
+Bundle-SymbolicName: ch.christianguedemann.demoplugin.angular;singleton:=true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.core.runtime,
+ com.ibm.xsp.core,
+ com.ibm.commons
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: ch.christianguedemann.demoplugin.angular.AJSActivator
