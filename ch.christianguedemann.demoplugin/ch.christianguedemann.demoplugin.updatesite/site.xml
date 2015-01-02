@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ch.christianguedemann.demoplugin.feature_1.0.0.qualifier.jar" id="ch.christianguedemann.demoplugin.feature" version="1.0.0.qualifier">
+      <category name="DemoPlugin"/>
+   </feature>
+   <category-def name="DemoPlugin" label="DemoPlugin"/>
+</site>

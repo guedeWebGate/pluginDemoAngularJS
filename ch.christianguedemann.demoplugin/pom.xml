@@ -237,5 +237,7 @@
 
 	<modules>
 		<module>ch.christianguedemann.demoplugin.angular</module>
+		<module>ch.christianguedemann.demoplugin.feature</module>
+		<module>ch.christianguedemann.demoplugin.updatesite</module>
 	</modules>
 </project>
