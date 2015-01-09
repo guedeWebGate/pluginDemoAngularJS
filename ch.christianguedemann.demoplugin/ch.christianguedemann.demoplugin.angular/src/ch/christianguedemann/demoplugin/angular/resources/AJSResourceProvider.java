@@ -34,7 +34,7 @@ public class AJSResourceProvider extends BundleResourceProvider {
 		}
 	};
 
-	public AJSResourceProvider(Bundle arg0, String arg1) {
+	public AJSResourceProvider() {
 
 		super(AJSActivator.getInstance().getBundle(), ANGULAR_PREFIX);
 	}

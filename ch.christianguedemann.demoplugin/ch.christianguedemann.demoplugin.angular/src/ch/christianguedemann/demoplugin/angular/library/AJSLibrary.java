@@ -11,6 +11,10 @@ public class AJSLibrary extends AbstractXspLibrary {
 	public String getLibraryId() {
 		return "ch.christianguedemann.demoplugin.angular.library";
 	}
+	@Override
+	public String getPluginId() {
+		return "ch.christianguedemann.demoplugin.angular";
+	}
 
 	@Override
 	public String[] getFacesConfigFiles() {
